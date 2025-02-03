@@ -21,8 +21,11 @@ Hi! I'm Júlia, a passionate developer with some experience in gameplay programm
 ## Projects
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b9640803-1250-4edc-baf8-da62477cd36e" width=900 height=400>
+  <a href="https://campalans.itch.io/requiem-for-a-beat">
+    <img src="https://github.com/user-attachments/assets/b9640803-1250-4edc-baf8-da62477cd36e" width=900 height=400>
+  </a>
 </p>
+<p align="center">Click the image to check out Requiem for a Beat!</p>
 
 ### Requiem for a Beat
 ***Lead Programmer***
@@ -34,9 +37,15 @@ Awarded “Audience Favorite” at Tecnogames 2024, _Requiem for a Beat_ is a rh
 * **Combat Mechanics**: Developed the grid-based combat system, the foundation of the game’s mechanics, ensuring seamless integration of rhythm, movement, and card-based strategy.
 * **Technical Execution**: Optimized gameplay systems for fluid performance, balancing player agency with the game’s fast-paced, rhythm-driven challenges.
 
+
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fb292fb8-e5c0-476a-8697-f7f12f638e7c" width=900 height=400>
+  <a href="https://timebandit360.itch.io/actualicat">
+    <img src="https://github.com/user-attachments/assets/fb292fb8-e5c0-476a-8697-f7f12f638e7c" width=900 height=400>
+  </a>
 </p>
+<p align="center">Click the image to check out Actualicat!</p>
+
 
 ### Actualicat
 ***Game developer***
@@ -48,8 +57,11 @@ Awarded “Most Fun” at the Ludi Awards 2023 (1st Edition), _Actualicat_ is a 
 * **Gameplay Balance**: Ensured the game’s mechanics were intuitive and rewarding, balancing challenge and fun to create an accessible yet deep simulation experience.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0bfef011-d43f-45f7-8c82-67cb5d275135" width=900>
+  <a href="https://github.com/MoonCrow03/LS2-protube-25">
+    <img src="https://github.com/user-attachments/assets/0bfef011-d43f-45f7-8c82-67cb5d275135" width=900>
+  </a>
 </p>
+<p align="center">Click the image to check out Protube!</p>
 
 ### Protube
 ***Full-Stack Developer & Team Coordinator***
