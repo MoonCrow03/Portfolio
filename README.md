@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/81b8be5d-dce0-46dc-9214-e86227f56070">
+<img src="https://github.com/user-attachments/assets/c819bb35-2195-42a0-91e6-34fc5201e7e2">
 </p>
 
 ### Gameplay Programmer | Scripting | AI Programmer
