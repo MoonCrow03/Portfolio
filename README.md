@@ -20,13 +20,6 @@ Hi! I'm Júlia, a passionate developer with some experience in gameplay programm
 
 ## Projects
 
-<p align="center">
-  <a href="https://campalans.itch.io/requiem-for-a-beat">
-    <img src="https://github.com/user-attachments/assets/b9640803-1250-4edc-baf8-da62477cd36e" width=900 height=400>
-  </a>
-</p>
-<p align="center">Click the image to check out Requiem for a Beat!</p>
-
 ### Requiem for a Beat
 ***Lead Programmer***
 
@@ -37,15 +30,29 @@ Awarded “Audience Favorite” at Tecnogames 2024, _Requiem for a Beat_ is a rh
 * **Combat Mechanics**: Developed the grid-based combat system, the foundation of the game’s mechanics, ensuring seamless integration of rhythm, movement, and card-based strategy.
 * **Technical Execution**: Optimized gameplay systems for fluid performance, balancing player agency with the game’s fast-paced, rhythm-driven challenges.
 
-
-
 <p align="center">
-  <a href="https://timebandit360.itch.io/actualicat">
-    <img src="https://github.com/user-attachments/assets/fb292fb8-e5c0-476a-8697-f7f12f638e7c" width=900 height=400>
+  <a href="https://campalans.itch.io/requiem-for-a-beat">
+    <img src="https://github.com/user-attachments/assets/b9640803-1250-4edc-baf8-da62477cd36e" width=900 height=400>
   </a>
 </p>
-<p align="center">Click the image to check out Actualicat!</p>
+<p align="center">Click the image to check out Requiem for a Beat!</p>
 
+### Danger Zone
+***Programmer***
+
+"Awarded “Best Design” and “Best Production” at Tecnogames 2025, _Danger Zone_ is a frenetic horde-based FPS set in the ruins of a Soviet nuclear facility. Players face endless waves of robotic enemies using a prototype weapon that dynamically switches between machine gun bursts, shotgun blasts, and explosive rockets. The objective? Survive as long as possible before inevitably succumbing to the onslaught.
+
+* **Enemies AI**: Implemented core enemy AI, including behavioral logic and pathfinding ensuring challenging combat encounters.
+* **Progression & Upgrade System**: Developed the weapon progression framework, implementing functional and visual upgrades that transform gameplay dynamics across tiers.
+* **Decal Placement Tool**: Developed a simple decal placement tool accelerating environmental design and scene polish.
+* **UI/UX Implementation**: Designed and built all in-game HUD elements and menu interfaces, prioritizing readability during high-intensity combat.
+
+<p align="center">
+  <a href="https://campalans.itch.io/danger-zone">
+    <img src="https://github.com/user-attachments/assets/d2ad9e8e-508d-4231-89f3-eda5bd8553b1" width=900 height=400>
+  </a>
+</p>
+<p align="center">Click the image to check out Danger Zone!</p>
 
 ### Actualicat
 ***Game developer***
@@ -57,11 +64,11 @@ Awarded “Most Fun” at the Ludi Awards 2023 (1st Edition), _Actualicat_ is a 
 * **Gameplay Balance**: Ensured the game’s mechanics were intuitive and rewarding, balancing challenge and fun to create an accessible yet deep simulation experience.
 
 <p align="center">
-  <a href="https://github.com/MoonCrow03/LS2-protube-25">
-    <img src="https://github.com/user-attachments/assets/0bfef011-d43f-45f7-8c82-67cb5d275135" width=900>
+  <a href="https://timebandit360.itch.io/actualicat">
+    <img src="https://github.com/user-attachments/assets/fb292fb8-e5c0-476a-8697-f7f12f638e7c" width=900 height=400>
   </a>
 </p>
-<p align="center">Click the image to check out Protube!</p>
+<p align="center">Click the image to check out Actualicat!</p>
 
 ### Protube
 ***Full-Stack Developer & Team Coordinator***
@@ -72,3 +79,10 @@ Developed a web application using React and Agile methodologies as part of a col
 * **Full-Stack Development**: Programmed both front-end (React) and back-end components, ensuring seamless integration and functionality across the application.
 * **Database Management**: Designed and managed the database, ensuring efficient data storage, retrieval, and scalability to support the application’s needs.
 * **Agile Practices**: Implemented Agile methodologies to streamline development, improve team productivity, and adapt to changing project requirements.
+
+<p align="center">
+  <a href="https://github.com/MoonCrow03/LS2-protube-25">
+    <img src="https://github.com/user-attachments/assets/0bfef011-d43f-45f7-8c82-67cb5d275135" width=900>
+  </a>
+</p>
+<p align="center">Click the image to check out Protube!</p>
