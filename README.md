@@ -18,7 +18,7 @@ Hi! I'm Júlia, a passionate developer with some experience in gameplay programm
 <img src="https://github.com/user-attachments/assets/eed57a08-eaf1-4e70-be16-879e446f964c" width=75 height=75> <img src="https://github.com/user-attachments/assets/c5d412e9-096a-42bb-8b8b-3d6025aa5b68" width=75 height=75> <img src="https://github.com/user-attachments/assets/5b0a6d6a-7cc0-4280-8fdf-6de1389e45c6" width=75 height=75> <img src="https://github.com/user-attachments/assets/6831c340-1492-4cc4-b592-44c1de3cd665" width=75 height=75>
 </p>
 
-## Projects
+## Videogame Projects
 
 ### Requiem for a Beat
 ***Lead Programmer***
@@ -70,6 +70,8 @@ Awarded “Most Fun” at the Ludi Awards 2023 (1st Edition), _Actualicat_ is a 
 </p>
 <p align="center">Click the image to check out Actualicat!</p>
 
+## Full-Stack Developer Projects
+
 ### Protube
 ***Full-Stack Developer & Team Coordinator***
 
@@ -83,6 +85,22 @@ Developed a web application using React and Agile methodologies as part of a col
 <p align="center">
   <a href="https://github.com/MoonCrow03/LS2-protube-25">
     <img src="https://github.com/user-attachments/assets/0bfef011-d43f-45f7-8c82-67cb5d275135" width=900>
+  </a>
+</p>
+<p align="center">Click the image to check out Protube!</p>
+
+
+
+### CourseFy
+***Backend Developer***
+
+Developed a REST API built with Spring Boot to manage an online course platform as part of a collaborative university project.
+
+The project allows managing courses, users, categories, languages, lessons, enrollments, and reviews, as well as performing searches and queries on student progress.
+
+<p align="center">
+  <a href="https://github.com/MoonCrow03/Backend_Coursefy">
+    <img src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?resize=600%2C315&ssl=1" width=900>
   </a>
 </p>
 <p align="center">Click the image to check out Protube!</p>
