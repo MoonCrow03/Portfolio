@@ -102,7 +102,7 @@ Developed a REST API built with Spring Boot to manage an online course platform.
 
 The project allows managing courses, users, categories, languages, lessons, enrollments, and reviews, as well as performing searches and queries on student progress.
 
-* **Backend architecture: Desgined and implemented a scalable REST API using Spring Boot, ensuring seamless communication between services.
+* **Backend architecture**: Desgined and implemented a scalable REST API using Spring Boot, ensuring seamless communication between services.
 * **Database management**: Designed, configure and managed databases using H2 Database and MySQL.
 * **Automated testing**: Implemented an extensive testing suite using JUnit 5 and Spring Boot.
 
