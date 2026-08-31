@@ -29,10 +29,10 @@ With the desire to make my colleagues' lives—and my own—easier, I strive to 
 
 Awarded “Audience Favorite” at Tecnogames 2024, _Requiem for a Beat_ is a rhythm-based boss rush game featuring card-driven combat. Players strategically dodge enemy attacks within a grid battle zone while customizing their deck to adapt to challenging boss encounters.
 
-* **Leadership & collaboration**: Managed communication between the producer and programming team, ensuring clear task delegation and timely delivery of milestones.
-* **Core systems design**: Designed and implemented a robust deckbuilding system, enabling players to tailor their playstyle through building their deck.
-* **Combat mechanics**: Developed the grid-based combat system, the foundation of the game’s mechanics, ensuring seamless integration of rhythm, movement, and card-based strategy.
-* **Technical execution**: Optimized gameplay systems for fluid performance, balancing player agency with the game’s fast-paced, rhythm-driven challenges.
+* Managed communication between the producer and programming team, ensuring clear task delegation and timely delivery of milestones.
+* Designed and implemented a robust deckbuilding system, enabling players to tailor their playstyle through building their deck.
+* Developed the grid-based combat system, the foundation of the game’s mechanics, ensuring seamless integration of rhythm, movement, and card-based strategy.
+* Optimized gameplay systems for fluid performance, balancing player agency with the game’s fast-paced, rhythm-driven challenges.
 
 <p align="center">
   <a href="https://campalans.itch.io/requiem-for-a-beat">
@@ -46,10 +46,10 @@ Awarded “Audience Favorite” at Tecnogames 2024, _Requiem for a Beat_ is a rh
 
 "Awarded “Best Design” and “Best Production” at Tecnogames 2025, _Danger Zone_ is a frenetic horde-based FPS set in the ruins of a Soviet nuclear facility. Players face endless waves of robotic enemies using a prototype weapon that dynamically switches between machine gun bursts, shotgun blasts, and explosive rockets. The objective? Survive as long as possible before inevitably succumbing to the onslaught.
 
-* **Enemies AI**: Implemented core enemy AI, including behavioral logic and pathfinding ensuring challenging combat encounters.
-* **Progression & upgrade system**: Developed the weapon progression framework, implementing functional and visual upgrades that transform gameplay dynamics across tiers.
-* **Decal placement tool**: Developed a simple decal placement tool accelerating environmental design and scene polish.
-* **UI/UX implementation**: Designed and built all in-game HUD elements and menu interfaces, prioritizing readability during high-intensity combat.
+* Implemented core enemy AI, including behavioral logic and pathfinding ensuring challenging combat encounters.
+* Developed the weapon progression framework, implementing functional and visual upgrades that transform gameplay dynamics across tiers.
+* Developed a simple decal placement tool accelerating environmental design and scene polish.
+* Designed and built all in-game HUD elements and menu interfaces, prioritizing readability during high-intensity combat.
 
 <p align="center">
   <a href="https://campalans.itch.io/danger-zone">
@@ -63,9 +63,9 @@ Awarded “Audience Favorite” at Tecnogames 2024, _Requiem for a Beat_ is a rh
 
 Awarded “Most Fun” at the Ludi Awards 2023 (1st Edition), _Actualicat_ is a simulation game where players manage a news publication, ensuring articles are accurate, ethical, and engaging.
 
-* **Minigame system**: Designed and implemented an interactive minigame system, allowing players to proofread, edit, and approve articles, creating a dynamic and engaging gameplay loop.
-* **Economy & progression**: Developed a robust economy system that rewards players for their performance, enabling them to unlock new skills and tools to enhance their newsroom management.
-* **Gameplay balance**: Ensured the game’s mechanics were intuitive and rewarding, balancing challenge and fun to create an accessible yet deep simulation experience.
+* Designed and implemented an interactive minigame system, allowing players to proofread, edit, and approve articles, creating a dynamic and engaging gameplay loop.
+* Developed a robust economy system that rewards players for their performance, enabling them to unlock new skills and tools to enhance their newsroom management.
+* Ensured the game’s mechanics were intuitive and rewarding, balancing challenge and fun to create an accessible yet deep simulation experience.
 
 <p align="center">
   <a href="https://timebandit360.itch.io/actualicat">
@@ -81,10 +81,10 @@ Awarded “Most Fun” at the Ludi Awards 2023 (1st Edition), _Actualicat_ is a 
 
 Developed a web application using React and Agile methodologies.
 
-* **Team leadership**: Managed communication and task assignment among team members, ensuring efficient collaboration and timely delivery of project milestones.
-* **Full-Stack development**: Programmed both front-end and back-end components, ensuring seamless integration and functionality across the application.
-* **Database management**: Designed and managed the database, ensuring efficient data storage, retrieval, and scalability to support the application’s needs.
-* **Agile practices**: Implemented Agile methodologies to streamline development, improve team productivity, and adapt to changing project requirements.
+* Managed communication and task assignment among team members, ensuring efficient collaboration and timely delivery of project milestones.
+* Programmed both front-end and back-end components, ensuring seamless integration and functionality across the application.
+* Designed and managed the database, ensuring efficient data storage, retrieval, and scalability to support the application’s needs.
+* Implemented Agile methodologies to streamline development, improve team productivity, and adapt to changing project requirements.
 
 <p align="center">
   <a href="https://github.com/MoonCrow03/LS2-protube-25">
@@ -93,8 +93,6 @@ Developed a web application using React and Agile methodologies.
 </p>
 <p align="center">Click the image to check out Protube!</p>
 
-
-
 ### CourseFy
 ***Backend Developer***
 
@@ -102,9 +100,9 @@ Developed a REST API built with Spring Boot to manage an online course platform.
 
 The project allows managing courses, users, categories, languages, lessons, enrollments, and reviews, as well as performing searches and queries on student progress.
 
-* **Backend architecture**: Desgined and implemented a scalable REST API using Spring Boot, ensuring seamless communication between services.
-* **Database management**: Designed, configure and managed databases using H2 Database and MySQL.
-* **Automated testing**: Implemented an extensive testing suite using JUnit 5 and Spring Boot.
+* Desgined and implemented a scalable REST API using Spring Boot, ensuring seamless communication between services.
+* Designed, configure and managed databases using H2 Database and MySQL.
+* Implemented an extensive testing suite using JUnit 5 and Spring Boot.
 
 <p align="center">
   <a href="https://github.com/MoonCrow03/Backend_Coursefy">
@@ -112,3 +110,19 @@ The project allows managing courses, users, categories, languages, lessons, enro
   </a>
 </p>
 <p align="center">Click the image to check out Protube!</p>
+
+### AI Planning & LLM Research
+***Bachelor's Thesis / Research Project***
+
+Research into the use of Large Language Models and automated planning for NPC decision-making in videogames. The project explores how LLM-based reasoning can be combined with structured planning techniques to generate and validate decisions within a game environment.
+
+* Investigated how LLM-based reasoning can be combined with structured planning techniques for NPC decision-making.
+* Worked with PDDL, automated planners, and plan validation to generate and validate decisions.
+* Developed Python tools for automated experimentation, validation, and result analysis.
+
+<p align="center">
+  <a href="https://github.com/MoonCrow03/Backend_Coursefy">
+    <img src="https://github.com/user-attachments/assets/4f757592-82de-4235-a6ea-d855a4899933" width=900>
+  </a>
+</p>
+<p align="center">Click the image to check out the Research Project!</p>
