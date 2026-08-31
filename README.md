@@ -1,4 +1,4 @@
-### Gameplay Programmer | Backend Developer
+### Junior Software Engineer
 
 Hi! I'm Júlia, a passionate programmer with experience in video game development, as well as backend and frontend development. I am currently pursuing a Double Degree in Computer Engineering and Video Game Design & Production.
 
