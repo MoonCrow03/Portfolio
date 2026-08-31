@@ -1,8 +1,3 @@
-<img width="2000" height="997" alt="iStock-1800292571-scaled" src="https://github.com/user-attachments/assets/59f73d09-1566-4032-ac6a-5cad209716ae" />
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c819bb35-2195-42a0-91e6-34fc5201e7e2">
-</p>
-
 ### Gameplay Programmer | Backend Developer
 
 Hi! I'm Júlia, a passionate programmer with experience in video game development, as well as backend and frontend development. I am currently pursuing a Double Degree in Computer Engineering and Video Game Design & Production.
