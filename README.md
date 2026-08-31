@@ -1,3 +1,4 @@
+<img width="2000" height="997" alt="iStock-1800292571-scaled" src="https://github.com/user-attachments/assets/59f73d09-1566-4032-ac6a-5cad209716ae" />
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c819bb35-2195-42a0-91e6-34fc5201e7e2">
 </p>
@@ -122,7 +123,7 @@ Research into the use of Large Language Models and automated planning for NPC de
 
 <p align="center">
   <a href="https://github.com/MoonCrow03/Backend_Coursefy">
-    <img src="https://github.com/user-attachments/assets/4f757592-82de-4235-a6ea-d855a4899933" width=900>
+    <img src="https://github.com/user-attachments/assets/042e9d40-82ae-442c-89f8-3318ece6da6f" width=900>
   </a>
 </p>
-<p align="center">Click the image to check out the Research Project!</p>
+<p align="center">Click the image to check out the research project!</p>
