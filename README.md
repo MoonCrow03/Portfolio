@@ -105,7 +105,7 @@ The project allows managing courses, users, categories, languages, lessons, enro
 * Implemented an extensive testing suite using JUnit 5 and Spring Boot.
 
 <p align="center">
-  <a href="https://github.com/MoonCrow03/Backend_Coursefy">
+  <a href="https://repositori.tecnocampus.cat">
     <img src="https://github.com/user-attachments/assets/4f757592-82de-4235-a6ea-d855a4899933" width=900>
   </a>
 </p>
